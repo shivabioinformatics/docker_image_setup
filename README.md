@@ -1,7 +1,6 @@
 # docker_image_setup
 ---
-Shiva Sadeghpour
-Docker Image installation
+Docker Set Up
 ---
 
 1: Installed Docker Desktop for Mac (Apple chip) from: https://www.docker.com/products/docker-desktop/
